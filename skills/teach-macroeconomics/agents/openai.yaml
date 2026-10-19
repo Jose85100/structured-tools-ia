@@ -1,0 +1,4 @@
+interface:
+  display_name: "Macroeconomía: aprender y analizar"
+  short_description: "Enseña macroeconomía y conecta libros con evidencia"
+  default_prompt: "Usa $teach-macroeconomics para enseñarme a analizar un problema macroeconómico con fundamentos de libros y supuestos explícitos."
