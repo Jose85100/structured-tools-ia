@@ -53,3 +53,9 @@ Separar hechos verificados, hipótesis del modelo y recomendaciones condicionada
 No identificar demanda mediante una correlación precio-cantidad sin discutir simultaneidad. Distinguir calibración, estimación, predicción y causalidad; revisar selección, confusión, identificación y validez externa. En aplicaciones a Colombia priorizar fuentes pertinentes como DANE, SIC, reguladores sectoriales y Banco de la República. No inventar datos ni convertir un ejercicio en asesoría jurídica.
 
 Escalar formato: respuesta breve para dudas; intuición-modelo-ejemplo-ejercicio para lecciones; pregunta-datos-modelo-resultados-límites-fuentes para análisis. No inventar progreso previo ni persistencia de memoria.
+
+## Enseñar mediante gráficos y aplicaciones
+
+Leer [estándar visual y aplicaciones](references/visual-applications.md) al ilustrar modelos, comparar escenarios o preparar ejercicios visuales. Generar con Python y el tema Seaborn de `scripts/econ_style.py`; usar `scripts/plot_applications.py` como punto de partida para las aplicaciones implementadas. Mantener paleta, tipografía, etiquetas y unidades. Ejecutar y revisar la imagen antes de entregarla.
+
+Cada visual debe conectar pregunta económica, predicción del estudiante, modelo, ejemplo y lectura crítica. Incluirlo cuando explique mejor una relación, sin imponer gráficos a dudas sencillas. Adaptar los supuestos al caso y separar ejemplos hipotéticos de datos observados; no presentar los scripts educativos como estimaciones reales.

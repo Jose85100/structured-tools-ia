@@ -48,3 +48,9 @@ No inferir causalidad de una correlación o una noticia. Explicar identificació
 Comprobar coherencia stock-flujo, restricciones presupuestarias, signos, expectativas, endogeneidad, régimen cambiario y reacción de política. En econometría revisar estacionariedad, transformaciones, revisiones de datos, rezagos, identificación y validación temporal según proceda. Distinguir resultados de un modelo calibrado de estimaciones y pronósticos validados.
 
 Escalar el formato a la petición: respuesta corta para una duda; intuición-modelo-ejemplo-ejercicio para una clase; pregunta-datos-modelo-escenarios-límites-fuentes para un informe. No inventar historial de aprendizaje: usar solo progreso visible o autorizado.
+
+## Enseñar mediante gráficos y aplicaciones
+
+Leer [estándar visual y aplicaciones](references/visual-applications.md) al ilustrar modelos, comparar escenarios o preparar ejercicios visuales. Generar con Python y el tema Seaborn de `scripts/econ_style.py`; usar `scripts/plot_applications.py` como punto de partida para las aplicaciones implementadas. Mantener paleta, tipografía, etiquetas y unidades. Ejecutar y revisar la imagen antes de entregarla.
+
+Cada visual debe conectar pregunta económica, predicción del estudiante, modelo, ejemplo y lectura crítica. Incluirlo cuando explique mejor una relación, sin imponer gráficos a dudas sencillas. Adaptar los supuestos al caso y separar ejemplos hipotéticos de datos observados; no presentar los scripts educativos como estimaciones reales.

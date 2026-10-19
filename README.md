@@ -47,3 +47,7 @@ Los talleres de macroeconomía trabajan ahorro y bienestar, inflación e identif
 > Trabaja en modo tutoría. Quiero defender la afirmación «una depreciación siempre estimula el PIB». Pídeme una predicción razonada y cuestiona mis supuestos, una pregunta por turno; ayúdame a construir un contraejemplo y revisar mi conclusión.
 
 > Enséñame incidencia tributaria mediante un debate: primero un mercado competitivo y luego una externalidad. Hazme justificar qué cambia en el juicio de bienestar y qué evidencia necesitaría para recomendar la política.
+
+## Aplicaciones visuales con Python y Seaborn
+
+Ambas skills incorporan un tema visual consistente, colores distinguibles, ejemplos numéricos y exportación PNG/SVG con parámetros JSON. Aplicaciones ejecutables: **Solow y consumo**, **trayectorias de deuda**, **incidencia tributaria** y **elección del consumidor**. Consultar `references/visual-applications.md` en cada skill para ejecución y uso docente. Los ejemplos son hipotéticos; no son datos actuales ni estimaciones empíricas.
