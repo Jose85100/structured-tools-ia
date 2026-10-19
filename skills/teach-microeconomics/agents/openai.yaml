@@ -1,0 +1,4 @@
+interface:
+  display_name: "Microeconomía: aprender y cuestionar"
+  short_description: "Cuestiona decisiones, incentivos y modelos económicos"
+  default_prompt: "Usa $teach-microeconomics en modo tutoría: ayúdame a defender una hipótesis, construir contraejemplos y revisar mi conclusión con modelos y libros, una pregunta por turno."
